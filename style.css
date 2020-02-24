@@ -1,0 +1,17 @@
+div.head{
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 150px;
+    border-radius: 5px;
+    border: solid red 5px;
+    color: rgb(190, 190, 8);
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+div.head:hover{
+    color: yellow;
+    cursor: pointer;
+}
