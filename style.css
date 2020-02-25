@@ -28,5 +28,14 @@ div.head2{
     font-size: 50px;
     text-align: center;
     padding: 20px;
+    margin-bottom: 10px;
+}
+div.imageCustom{
+    height: 488px;
+    width: 867px;
+    margin: auto;
+    text-align: center;
+    box-shadow:7px 7px 7px 7px red;
+    margin-bottom: 40px;
 }
 
