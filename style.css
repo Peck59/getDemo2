@@ -11,6 +11,7 @@ div.head{
     text-align: center;
     padding: 20px;
     margin-bottom: 10px;
+    margin-top: 80px;
 }
 div.head:hover{
     color: yellow;
@@ -38,4 +39,27 @@ div.imageCustom{
     box-shadow:7px 7px 7px 7px red;
     margin-bottom: 40px;
 }
+body{
+    background-color: rgba(0, 0, 0, 0.815);
+    margin: 0;
+}
+div.menuCustom{
+    background-color: darkgreen;
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    top: 0;
+}
+div.menuCustom a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    padding: 20px 20px;
+}
+div.menuCustom a:hover{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
 
